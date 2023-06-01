@@ -1,2 +1,3 @@
-# classification-churn-customer
+# Classification Churn Customer using Logistic Regression
+
  
